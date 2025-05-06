@@ -1,6 +1,4 @@
-# 📊 Анализ Retention клиентов интернет-магазина
-
-![Тепловая карта Retention](assets/retention_heatmap.png)
+# 📊 Когортный Анализ Retention клиентов интернет-магазина
 
 ---
 
