@@ -33,6 +33,7 @@
 | `created_at`  | Дата и время взаимодействия/покупки |
 
 Данные хранятся в CSV-файле `clients.csv`.
+Таблица с данными выглядит [таким образом](https://github.com/nijat1313/Projects/blob/main/%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20Retention/%D0%92%D0%B8%D0%B4%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8.png).
 
 ---
 
